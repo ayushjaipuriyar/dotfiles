@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Onedrive	
+Comment=Onedrive chrome
+Icon=/home/ayush/.local/share/applications/icons/onedrive.png
+Exec=google-chrome-stable --new-window 'https://mujmanipal-my.sharepoint.com/personal/ayush_209302167_muj_manipal_edu/_layouts/15/onedrive.aspx'

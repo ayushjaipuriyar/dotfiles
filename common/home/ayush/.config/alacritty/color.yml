@@ -1,0 +1,45 @@
+# Base16 Material - alacritty color config
+# Nate Peterson
+colors:
+  # Default colors
+  primary:
+    background: "0x12181a"
+    foreground: "0xbbd4da"
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: "0xbbd4da"
+    cursor: "0xeeffff"
+
+  normal:
+    black: "0x12181a"
+    red: "0x2d718d"
+    green: "0x47758c"
+    yellow: "0x348ca6"
+    blue: "0x549db2"
+    magenta: "0x6cb4c5"
+    cyan: "0x79c0ce"
+    white: "0xbbd4da"
+
+  # Bright colors
+  bright:
+    black: "0x829498"
+    red: "0x2d718d"
+    green: "0x47758c"
+    yellow: "0x348ca6"
+    blue: "0x549db2"
+    magenta: "0x6cb4c5"
+    cyan: "0x79c0ce"
+    white: "0xbbd4da"
+
+  dim:
+    black: "0x1e2127"
+    red: "0xe06c75"
+    green: "0x98c379"
+    yellow: "0xd19a66"
+    blue: "0x61afef"
+    magenta: "0xc678dd"
+    cyan: "0x56b6c2"
+    white: "0x828791"
+
+draw_bold_text_with_bright_colors: false

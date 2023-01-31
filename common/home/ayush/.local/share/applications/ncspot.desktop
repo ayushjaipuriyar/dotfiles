@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Ncspot	
+Comment=Spotify client written in rust
+Icon=/home/ayush/.local/share/applications/icons/ncspot.png
+Exec=ncspot
+Terminal=true

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Telegram
+Comment=Telegram
+Icon=/home/ayush/.local/share/applications/icons/telegram.png
+Exec=google-chrome-stable --app=https://web.telegram.org/k/
+

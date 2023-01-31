@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Google Calendar
+Comment=Google Calendar
+Icon=/home/ayush/.local/share/applications/icons/google-calendar.png
+Exec=google-chrome-stable --app=https://calendar.google.com/calendar/u/0/r

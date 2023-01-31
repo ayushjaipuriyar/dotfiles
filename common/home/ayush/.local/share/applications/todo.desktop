@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Todo	
+Comment=Todo Chrome
+Icon=/home/ayush/.local/share/applications/icons/todo.png
+Exec=google-chrome-stable --new-window 'https://to-do.office.com/tasks/today?ru=https%3A%2F%2Ftodo.microsoft.com%2Ftasks%2F'

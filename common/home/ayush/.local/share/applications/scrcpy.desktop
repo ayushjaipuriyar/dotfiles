@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=SCRCPY
+Comment=Copy your phone screen
+Icon=/home/ayush/.local/share/applications/icons/scrcpy.png
+Exec=/home/ayush/.local/share/sbin/scrcpy.sh
+Terminal=true

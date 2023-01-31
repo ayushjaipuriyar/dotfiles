@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Btop
+Comment=Resources Monitor
+Icon=/home/ayush/.local/share/applications/icons/btop.png
+Exec=btop
+Terminal=true

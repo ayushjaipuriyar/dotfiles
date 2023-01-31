@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Discord
+Comment=Discord
+Icon=/home/ayush/.local/share/applications/icons/discord.png
+Exec=google-chrome-stable --app=https://discord.com/app

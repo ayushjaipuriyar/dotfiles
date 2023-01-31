@@ -1,0 +1,9 @@
+[Unit]
+Description=Aria 
+
+[Service]
+ExecStart=aria2c --enable-rpc=true --log-level=error --log=/home/ayush/.aria2/log.txt --rpc-listen-all --listen-port=6900 --enable-dht=true --dht-listen-port=6900 --pause-metadata=false --dir=/home/ayush/media/Downloads/
+Restart=always
+
+[Install]
+WantedBy=default.target
